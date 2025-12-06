@@ -1,7 +1,9 @@
 # Internship Navigator 🎓
 ### A RAG-powered Assistant for University Internship Rules & Opportunities
 
-* **Project Type:** Group Course Project (Introduction to Generative AI)
+* **Project Type:** Group Course Project
+* **Course:** Introduction to Generative AI
+* **Timeline:** Feb. 2025 - June 2025
 * **Team Size:** 4 Members
 * **My Role:** Co-Developer (Focus: Backend & RAG Architecture)
 * **Status:** Proof of Concept (PoC) Completed
