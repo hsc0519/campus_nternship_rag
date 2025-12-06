@@ -36,7 +36,7 @@ We observed a critical disconnect in how internship information is presented on 
 
 The following demonstration showcases the system's ability to handle complex queries regarding internship regulations and job matching.
 
-[![Watch the Demo Video](https://img.youtube.com/vi/cf4HzJiJvs8/maxresdefault.jpg)](https://youtu.be/cf4HzJiJvs8?t=4m34s)
+[![Watch the Demo Video](https://img.youtube.com/vi/cf4HzJiJvs8/maxresdefault.jpg)](https://youtu.be/cf4HzJiJvs8)
 
 > **Note:** The video narration and UI are in **Traditional Chinese** as the system was deployed for a local university context.
 
