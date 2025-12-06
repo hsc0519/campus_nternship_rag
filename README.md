@@ -12,9 +12,8 @@
 
 This repository houses the **final group project** for the *Introduction to Generative AI* course. Our team collaborated to identify campus pain points and developed this Chatbot as a practical solution.
 
-> **Personal Technical Growth**
->
-> This project marks my **first implementation of a Retrieval-Augmented Generation (RAG) architecture**. The practical experience I gained here—specifically in handling **hybrid data retrieval**—built the essential technical skills that I later applied to my separate graduation thesis on ESG analysis.
+**Personal Technical Growth**
+This project marks my **first implementation of a Retrieval-Augmented Generation (RAG) architecture**. The practical experience I gained here—specifically in handling **hybrid data retrieval**—built the essential technical skills that I later applied to my separate graduation thesis on ESG analysis.
 
 #### The Problem Our Team Solved
 We observed a critical disconnect in how internship information is presented on campus:
